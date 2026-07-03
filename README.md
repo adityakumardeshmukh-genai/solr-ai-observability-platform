@@ -157,25 +157,34 @@ streamlit run app.py
 ## 11. Screenshots
 
 ### Dashboard
-[ Add Screenshot Here ]
+<img width="1043" height="327" alt="image" src="https://github.com/user-attachments/assets/1c4b3e17-fc99-494a-b43d-6ed8e225f5b9" />
+
 
 ### Incident Cards
-[ Add Screenshot Here ]
+<img width="1353" height="191" alt="image" src="https://github.com/user-attachments/assets/ee062221-17a1-4eb6-ae94-39375bc4a763" />
+
 
 ### Cluster Health
-[ Add Screenshot Here ]
+<img width="1296" height="366" alt="image" src="https://github.com/user-attachments/assets/fe21d34b-db7d-4e75-970f-d420980bb29d" />
+
 
 ### AI RCA
-[ Add Screenshot Here ]
+<img width="1302" height="745" alt="image" src="https://github.com/user-attachments/assets/af73815f-2422-4ff5-a87b-300a38e74230" />
+
+
+### Active Incidents
+<img width="1325" height="452" alt="image" src="https://github.com/user-attachments/assets/5f17e2f6-ada4-447d-8676-82d024686d41" />
 
 ### Live Logs
-[ Add Screenshot Here ]
+<img width="1338" height="442" alt="image" src="https://github.com/user-attachments/assets/ea2bed20-ae62-4f43-9622-fb803c2459e2" />
 
 ### Simulation Controls
-[ Add Screenshot Here ]
+<img width="327" height="816" alt="image" src="https://github.com/user-attachments/assets/71e49d23-2dbe-43df-b079-4d5de1c26157" />
+
 
 ### Demo GIF (Optional)
-[ Add Screenshot Here ]
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/33d6fca0-51fe-453b-a747-91604cbde9d1" />
+
 
 ---
 
