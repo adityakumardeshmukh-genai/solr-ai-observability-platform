@@ -184,7 +184,7 @@ streamlit run app.py
 
 ### Demo GIF (Optional)
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/33d6fca0-51fe-453b-a747-91604cbde9d1" />
-https://drive.google.com/drive/folders/1g7WUUfRV6HihRzKZopFF3TNjCVAfx44N?usp=sharing
+https://drive.google.com/file/d/17UvWqApQvFrkEakeNgmLaBfNdw_sBNH-/view?usp=drive_link
 
 
 ---
