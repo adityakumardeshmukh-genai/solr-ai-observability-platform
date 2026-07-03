@@ -157,7 +157,7 @@ streamlit run app.py
 ## 11. Screenshots
 
 ### Dashboard
-<img width="1353" height="191" alt="image" src="https://github.com/user-attachments/assets/34ef5936-a3f0-47a2-9332-1730e0eedfd1" />
+<img width="1043" height="327" alt="image" src="https://github.com/user-attachments/assets/1c4b3e17-fc99-494a-b43d-6ed8e225f5b9" />
 
 
 ### Incident Cards
