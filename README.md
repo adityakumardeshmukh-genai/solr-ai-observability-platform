@@ -182,8 +182,20 @@ streamlit run app.py
 <img width="327" height="816" alt="image" src="https://github.com/user-attachments/assets/71e49d23-2dbe-43df-b079-4d5de1c26157" />
 
 
-### Demo GIF (Optional)
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/33d6fca0-51fe-453b-a747-91604cbde9d1" />
+
+### 🎥 Project Demo
+
+A complete walkthrough of the application demonstrating:
+
+- Live Solr & JVM GC log simulation
+- Rule-based anomaly detection
+- Event correlation
+- Cluster health monitoring
+- AI-powered Root Cause Analysis
+- Azure OpenAI ↔ Gemini provider switching
+
+▶ **Watch Demo (2 min 25 sec)**
+
 https://drive.google.com/file/d/17UvWqApQvFrkEakeNgmLaBfNdw_sBNH-/view?usp=drive_link
 
 
