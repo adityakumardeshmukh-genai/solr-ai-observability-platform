@@ -183,7 +183,8 @@ streamlit run app.py
 
 
 ### Demo GIF (Optional)
-[ Add Screenshot Here ]
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/33d6fca0-51fe-453b-a747-91604cbde9d1" />
+
 
 ---
 
