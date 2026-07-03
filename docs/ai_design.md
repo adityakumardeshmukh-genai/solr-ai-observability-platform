@@ -74,7 +74,7 @@ Extensible to (by adding another provider strategy):
 
 ### Mermaid Sequence: AI Analysis Execution
 ```mermaid
-sequence-diagram
+sequenceDiagram
     autonumber
     actor User
     participant App as app.py
