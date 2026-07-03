@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+logs/*.log
+storage/parsed_logs.json
+storage/parser_state.json
+storage/anomalies.json
+storage/incidents.json
+storage/cluster_health.json
+storage/ai_analysis.json
